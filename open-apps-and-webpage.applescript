@@ -16,14 +16,12 @@
 
 tell application "Google Chrome"
     activate
-    -- Gmail 個人
+    -- Gmail s.hazushi
     open location "https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/label%3Aunread"
-    -- Gmail 仕事
+    -- Gmail hidekazu_wada
     open location "https://mail.google.com/mail/u/2/#search/label%3Aunread"
-    -- 松本さんPF
+    -- PF matsumoto
     open location "https://atelier-mieux.com/"
-    -- 休暇村
-    open location "https://www.qkamura.or.jp/izu/"
     -- X
     open location "https://x.com/home"
     -- Google Calendar
